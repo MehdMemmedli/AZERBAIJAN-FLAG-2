@@ -1,0 +1,16 @@
+img,iframe {
+    width: 50%;
+    height: 500px;
+}
+
+.s1{
+    color: blue;
+}
+
+#s3{
+    color: red;
+}
+
+.s2{
+    color: green;
+}
